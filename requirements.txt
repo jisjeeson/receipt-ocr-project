@@ -1,7 +1,7 @@
+streamlit
 paddleocr
 paddlepaddle
-streamlit
-opencv-python
+opencv-python-headless
 pillow
 numpy
 pandas
