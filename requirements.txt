@@ -1,8 +1,7 @@
 streamlit==1.35.0
-paddlepaddle==2.6.1
-paddleocr==2.8.1
-opencv-python-headless==4.9.0.80
+paddleocr
+opencv-python-headless
 pillow
-numpy==1.26.4
+numpy
 pandas
 rapidfuzz
