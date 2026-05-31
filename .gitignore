@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+processed_receipt.png
+temp_receipt.png
+resized_receipt.png
